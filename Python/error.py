@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 def error_fizzbuzz(x):
     fizz, buzz = "", ""
 
