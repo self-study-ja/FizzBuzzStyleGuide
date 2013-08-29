@@ -11,3 +11,8 @@ Rule
   * if n can be devided by 5, output "Buzz"
   * if n can be devided by 15, output "FizzBuzz"
   * other, output n.
+
+Grateful Source for FizzBuzz
+============================
+* http://rosettacode.org/wiki/FizzBuzz
+* https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
