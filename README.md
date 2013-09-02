@@ -12,6 +12,15 @@ Rule
   * if n can be devided by 15, output "FizzBuzz"
   * other, output n.
 
+Test
+====
+
+* Answer file is /answer.txt
+* Test way is as following.
+  1. cd directory_to_targe (e.g. "cd Ruby")
+  2. make (It makes .out files)
+  3. make test (It compares .out files with answer.txt)
+
 Grateful Source for FizzBuzz
 ============================
 * http://rosettacode.org/wiki/FizzBuzz
