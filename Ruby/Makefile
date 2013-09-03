@@ -9,3 +9,5 @@ test:
 	diff ../answer.txt lambda.out
 	diff ../answer.txt recursive.out
 
+clean:
+	rm -f *.out
