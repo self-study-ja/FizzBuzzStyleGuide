@@ -21,6 +21,14 @@ Test
   2. make (It makes .out files)
   3. make test (It compares .out files with answer.txt)
 
+Requirements
+============
+C++
+---
+```
+yum -y install gcc gcc-c++ boost boost-thread boost-devel
+```
+
 Grateful Source for FizzBuzz
 ============================
 * http://rosettacode.org/wiki/FizzBuzz
